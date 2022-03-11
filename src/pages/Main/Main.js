@@ -25,7 +25,7 @@ function Main() {
         <title>{headerData.name} - Porfolio</title>
       </Helmet>
 
-      <Navbar />
+      <Navbar/>
       <Landing />
       <About />
       {/* <Education /> */}
