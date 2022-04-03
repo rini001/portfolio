@@ -7,14 +7,14 @@ import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
 import { socialsData } from "../../data/socialsData";
-import proPic from "./img/VishalPic.jpeg";
+import proPic from "./img/Renaissance.jpg";
 
 import {
   FaInstagram,
   FaLinkedin,
   FaGithub,
-  FaYoutube,
-  FaBlogger,
+  // FaYoutube,
+  // FaBlogger,
 } from "react-icons/fa";
 
 function Landing() {
@@ -144,7 +144,7 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                // href={headerData.resumePdf}
+                href={headerData.resumePdf}
                 // download="Manasvi_Sharma_Resume"
                 // target="_blank"
                 // rel="noreferrer"

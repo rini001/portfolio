@@ -7,14 +7,15 @@ import {
   Landing,
   About,
   Skills,
-  Testimonials,
-  Blog,
-  Education,
-  Experience,
+  // Testimonials,
+  // Blog,
+  // Education,
+  // Experience,
   Contacts,
   Projects,
-  Services,
-  Achievement,
+  Education,
+  // Services,
+  // Achievement,
 } from "../../components";
 import { headerData } from "../../data/headerData";
 
@@ -28,7 +29,7 @@ function Main() {
       <Navbar/>
       <Landing />
       <About />
-      {/* <Education /> */}
+      <Education />
       <Skills />
       {/* <Experience /> */}
       <Projects />

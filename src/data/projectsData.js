@@ -1,13 +1,13 @@
-import one from "../assets/svg/projects/one.svg";
-import two from "../assets/svg/projects/two.svg";
-import three from "../assets/svg/projects/three.svg";
-import four from "../assets/svg/projects/four.svg";
-import five from "../assets/svg/projects/five.svg";
-import six from "../assets/svg/projects/six.svg";
-import seven from "../assets/svg/projects/seven.svg";
-import eight from "../assets/svg/projects/eight.svg";
+// import one from "../assets/svg/projects/one.svg";
+// import two from "../assets/svg/projects/two.svg";
+// import three from "../assets/svg/projects/three.svg";
+// import four from "../assets/svg/projects/four.svg";
+// import five from "../assets/svg/projects/five.svg";
+// import six from "../assets/svg/projects/six.svg";
+// import seven from "../assets/svg/projects/seven.svg";
+// import eight from "../assets/svg/projects/eight.svg";
 
-import ikea_image from "../assets/svg/projects/ikea.png";
+import calculator from "../assets/svg/projects/simple-calc.png";
 import martine_image from "../assets/svg/projects/martine.png";
 
 
@@ -15,16 +15,6 @@ import martine_image from "../assets/svg/projects/martine.png";
 export const projectsData = [
   {
     id: 1,
-    projectName: "Ikea Clone",
-    projectDesc:
-      "This is a website from where user can buy beautifull house-hold products of the brand IKEA",
-    tags: ["React", "Context-API", "Material Ui", "CSS", "HTML"],
-    code: "https://github.com/VishalChauhan562/Ikea-Clone",
-    demo: "https://ikea-clone2.vercel.app/",
-    image: ikea_image
-  },
-  {
-    id: 2,
     projectName: "Martine Clone",
     projectDesc:
       "Its a traveling purpose website which supports in booking tickets for events and hotels.",
@@ -32,7 +22,18 @@ export const projectsData = [
     code: "https://github.com/VishalChauhan562/Project-1-Martine",
     demo: "http://project-1-martine.vercel.app/",
     image: martine_image
-  }
+  },
+  {
+    id: 2,
+    projectName: "Calculator",
+    projectDesc:
+      "Basic calculator",
+    tags: ["JavaScript","CSS", "HTML"],
+    code: "https://github.com/rini001/Simple-Calculator",
+    demo: "https://simple-calculator-ashy.vercel.app/",
+    image: calculator
+  },
+  
  
 ];
 

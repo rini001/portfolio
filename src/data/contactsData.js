@@ -1,7 +1,7 @@
 export const contactsData = {
-  email: "chauhanvishal562@gmail.com",
-  phone: "+91-7737096137",
-  address: "Alwar, Rajasthan - 301001",
+  email: "debnathrenaissance@gmail.com",
+  phone: "+91-7973412258",
+  address: "Amritsar, Punjab - 143001",
 
   sheetAPI: "",
 };
