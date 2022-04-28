@@ -53,7 +53,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
           <p
             className="project--desc"
             style={{
-              background: theme.secondary,
+              background: theme.primary400,
               color: theme.tertiary,
             }}
           >
@@ -62,12 +62,12 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
           <div
             className="project--lang"
             style={{
-              background: theme.secondary,
+              background: theme.primary400,
               color: theme.tertiary80,
             }}
-          >
+          > <span>Tech-Stack:</span>
             {tags.map((tag, id) => (
-              <span key={id}>{tag} | </span>
+              <span key={id}>{tag}|</span>
             ))}
           </div>
 

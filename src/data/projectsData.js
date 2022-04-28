@@ -19,7 +19,7 @@ export const projectsData = [
     projectDesc:
       "Its a traveling purpose website which supports in booking tickets for events and hotels.",
     tags: ["JavaScript", "HTML", "CSS"],
-    code: "https://github.com/VishalChauhan562/Project-1-Martine",
+    code: "https://github.com/rini001/Project-1-Martine",
     demo: "http://project-1-martine.vercel.app/",
     image: martine_image
   },
