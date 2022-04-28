@@ -73,6 +73,8 @@ import sketch from "../assets/svg/skills/sketch.svg";
 import express from "../assets/svg/skills/express.svg";
 import unity from "../assets/svg/skills/unity.svg";
 import wolframalpha from "../assets/svg/skills/wolframalpha.svg";
+import redux from "../assets/svg/skills/reduxlogo.svg";
+import styledComponents from "../assets/svg/skills/canva.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
 
@@ -81,6 +83,10 @@ export const skillsImage = (skill) => {
   switch (skillID) {
     case "gcp":
       return gcp;
+      case "redux":
+      return redux;
+      case "styledComponents":
+        return styledComponents;
     case "html":
       return html;
     case "photoshop":
