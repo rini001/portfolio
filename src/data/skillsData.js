@@ -6,7 +6,7 @@ export const skillsData = [
   "React",
   "Redux",
   "MaterialUI",
-  "Styled-Components"
+  "styledcomponents"
 ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
