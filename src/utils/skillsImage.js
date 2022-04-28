@@ -74,7 +74,7 @@ import express from "../assets/svg/skills/express.svg";
 import unity from "../assets/svg/skills/unity.svg";
 import wolframalpha from "../assets/svg/skills/wolframalpha.svg";
 import redux from "../assets/svg/skills/reduxlogo.svg";
-import styledComponents from "../assets/svg/skills/canva.svg";
+import styledComponents from "../assets/svg/skills/atom.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
 
