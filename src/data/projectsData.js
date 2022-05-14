@@ -33,7 +33,7 @@ export const projectsData = [
     projectName: "MyFitenesspal - React Fitness Site",
     projectDesc:
       "Its a traveling purpose website which supports in booking tickets for events and hotels.",
-    tags: ["ReactJs |","JavaScript |", "HTML |", "CSS"],
+    tags: ["ReactJs |","Material UI |","JavaScript |", "HTML |", "CSS" ],
     code: "https://github.com/rini001/myfitnesspal",
     demo: "https://www.myfitnesspal.com/",
     image: fitness
