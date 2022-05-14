@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'Masai School',
-        course: 'Full Stack Web Development',
+        course: 'Web Development',
         startYear: '2021',
         endYear: '2022'
     },
@@ -17,7 +17,7 @@ export const educationData = [
         id: 3,
         institution: 'SSSS Khalsa Secior Secondary School',
         course: '11th-12th Non-medical',
-        startYear: '2019',
-        endYear: 'Present'
+        startYear: '2012',
+        endYear: '2014'
     },
 ]
