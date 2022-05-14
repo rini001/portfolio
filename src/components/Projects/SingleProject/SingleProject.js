@@ -67,7 +67,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
             }}
           > <span>Tech-Stack:</span>
             {tags.map((tag, id) => (
-              <span key={id}>{tag}|</span>
+              <span key={id}>{tag}</span>
             ))}
           </div>
 
