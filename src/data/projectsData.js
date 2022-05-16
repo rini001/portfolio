@@ -32,7 +32,7 @@ export const projectsData = [
     id: 2,
     projectName: "MyFitenesspal - React Fitness Site",
     projectDesc:
-      "Its a traveling purpose website which supports in booking tickets for events and hotels.",
+      "MyFitnessPal is one of the best weight loss apps and fitness apps, helping nearly 1 million members reach their nutrition and fitness goals every year. ",
     tags: ["ReactJs |","Material UI |","JavaScript |", "HTML |", "CSS" ],
     code: "https://github.com/rini001/myfitnesspal",
     demo: "https://www.myfitnesspal.com/",

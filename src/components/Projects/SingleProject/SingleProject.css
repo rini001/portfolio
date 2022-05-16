@@ -104,8 +104,8 @@
 
 .project--lang > span {
   font-family: var(--primaryFont);
-  font-weight: 500;
+  font-weight: 400;
   word-break: break-word;
   line-height: 100%;
-  font-size: large;
+
 }

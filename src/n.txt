@@ -1,0 +1,24 @@
+Nykaa Clone
+Tech Stack: React JS | Redux | JSON Server | Style-Components                              
+Areas of responsibilities:                                                                
+#This was a solo project build in 5 days.
+#One Can search product on the site. The data is limited to "cleanser".
+#Filter feature is there to get the product based on the prefered brand.
+#Data for the product is being loaded from json-server.
+#Authentication is being developed by hard coded data
+#The state management is being done using redux which includes managing the flow of cart .
+
+
+
+MyFitenesspal - React Fitness Site
+Tech Stack: React JS| Javascript | HTMl & CSS
+#A complete website developed using react and pure css.
+#It was a collaborative project developed in 6 days.
+#The website is responsive.
+#I have worked on Home page, Apps Page and routing
+code: https://github.com/rini001/myfitnesspal
+demo: https://www.myfitnesspal.com/
+
+
+
+
